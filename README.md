@@ -4,9 +4,9 @@
 - Control mulitple vendors / stores through this single CMS
 - create, update and delete categories!
 - create, update and delete products
-- control which products are "featured" so they show on the homepage!
+- control which products are "featured" on the homepage
 - see graphs of your revenue etc.
-  Clerk Authentication!
+- Clerk Authentication
 - Order creation
 - Stripe checkout
 - Stripe webhooks
