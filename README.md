@@ -1,4 +1,4 @@
-# E-Commerce Dashboard using Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+# E-Commerce Admin and CMS Dashboard 
 
 - Admin dashboard is going to serve as both CMS, Admin and API
 - Control mulitple vendors / stores through this single CMS
